@@ -1,0 +1,28 @@
+{
+  "tooltips": {
+    "placeMarker": "单击以放置标记",
+    "firstVertex": "单击以放置第一个顶点",
+    "continueLine": "点击继续绘制",
+    "finishLine": "点击任何现有标记完成",
+    "finishPoly": "Click first marker to finish",
+    "finishRect": "Click to finish",
+    "startCircle": "Click to place circle center",
+    "finishCircle": "Click to finish circle"
+  },
+  "actions": {
+    "finish": "Finish",
+    "cancel": "Cancel",
+    "removeLastVertex": "Remove Last Vertex"
+  },
+  "buttonTitles": {
+    "drawMarkerButton": "Draw Marker",
+    "drawPolyButton": "Draw Polygons",
+    "drawLineButton": "Draw Polyline",
+    "drawCircleButton": "Draw Circle",
+    "drawRectButton": "Draw Rectangle",
+    "editButton": "Edit Layers",
+    "dragButton": "Drag Layers",
+    "cutButton": "Cut Layers",
+    "deleteButton": "Remove Layers"
+  }
+}
